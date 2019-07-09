@@ -1,0 +1,37 @@
+/*box 1*/
+.content-body-areaOptionps .content-body-areaOptionps-selection-1 {
+ background-image: url(https://i.ytimg.com/vi/ZyX7U78keu0/maxresdefault.jpg);
+ background-position: 0px 50%;
+ background-repeat: no-repeat;
+ background-size: 100%;
+ border-radius: 5px;
+ opacity: 0.8;
+
+}
+
+.content-body-areaOptionps .content-body-areaOptionps-selection-1:hover {
+ background-size: 100%;
+ background-position: 0px 45%;
+ opacity: 1;
+ transition: .25s;
+
+}
+
+/*box 2*/
+.content-body-areaOptionps .content-body-areaOptionps-selection-2 {
+ background-image: url(https://cdn.pastemagazine.com/www/articles/Discord_Header.jpg);
+ background-position: 0px 50%;
+ background-repeat: no-repeat;
+ background-size: 100%;
+ border-radius: 5px;
+ opacity: 0.8;
+}
+
+.content-body-areaOptionps .content-body-areaOptionps-selection-2:hover {
+ background-size: 100%;
+ background-position: 0px 45%;
+ opacity: 1;
+ transition: .25s;
+}
+
+/*box 3*/
