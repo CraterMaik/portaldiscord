@@ -1,5 +1,5 @@
 # Portal Discord
-Es una plantilla web, con el diseño similar a la interface de [discord app](https://discordapp.com/).
+Es una plantilla web, con el diseño similar a la interface de [discord](https://discord.com/).
 
 ## Desarrollado en:
 > - HTML5
